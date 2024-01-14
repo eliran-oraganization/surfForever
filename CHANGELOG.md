@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.3.2](https://github.com/eliranRP/surfForever/compare/v1.3.1...v1.3.2) (2024-01-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency axios to v1.6.3 ([88a3d2b](https://github.com/eliranRP/surfForever/commit/88a3d2be678f1540cb7d8f81cfe1a08afef47d2e))
+* **deps:** update dependency axios to v1.6.4 ([3de9b1d](https://github.com/eliranRP/surfForever/commit/3de9b1d901e9b251b0fe8afbcf71464e9ee20d76))
+* **deps:** update dependency mongoose to v8.0.3 ([e15284e](https://github.com/eliranRP/surfForever/commit/e15284e75849bc7e94de29261e6ea6c4ae210889))
+* **deps:** update dependency npm to v10.2.5 ([f84d98d](https://github.com/eliranRP/surfForever/commit/f84d98d0dedff88d20e402b9077ee9856483c65b))
+* **deps:** update dependency ts-node to v10.9.2 ([9c43c22](https://github.com/eliranRP/surfForever/commit/9c43c2245f285279d6828318bcecfaccafa99f51))
+
 ## [1.3.1](https://github.com/eliranRP/surfForever/compare/v1.3.0...v1.3.1) (2023-12-09)
 
 
